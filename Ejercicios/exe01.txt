@@ -1,0 +1,22 @@
+a) ls, ls -m, ls -l, ls -l -v
+
+Ls: Muestra una lista con los archivos de algún directorio, esto lo hace de manera alfabética, poner solamente el comando ls muestra la lista sin argumentos del directorio en el que estás.
+
+ls -m: Muestra todos los archivos en una línea con su respectiva separación de comas.
+
+ls -l: Muestra un listado en formato largo, donde se encuentra la información de permisos, sus números de enlaces, el usuario, la fecha y el tamaño, junto con el nombre.
+
+ls -l -v: Cuando se utiliza la opción -v o -V, la utilidad de comando proporcionará información sobre cómo el shell interpreta el nombre de un comando.
+
+d) echo a*, ls a*.c, ls a??.c
+
+echo a*: Se encarga de realizar la operación de "print" todas las opciones que empiezan por a
+
+ls a*.c: listado de todos los ficheros que empiezan por a y que tienen la extensión .c 
+
+
+e) echo ai[1-5].c, ls [a-c]ii1.c
+
+echo ai[1-5].c Lista todos los archivos que comienzen con ai luego que estén seguidos por un numero entre el 1 al 5 con la extension .c
+ 
+ls [a-c]ii1.c lista todos los archivos que empiezan por cualquier letra que esté entre a-c y que seguido esté acompañado por ii1.c

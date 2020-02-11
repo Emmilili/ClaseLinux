@@ -1,0 +1,15 @@
+Al leer el manual de ls
+
+El más interesante y útil -C, que ordena los ficheros en columnas y ordenadas verticalmente, lo cuál facilita mucho ya que en Linux se puede ver un poco desorganizado y confundir muy facil en caso de que estemos por 1390 ficheros o archivos. 
+
+Al leer el manual de mkdir 
+
+El más útil es mkdir -m , --mode debido a que establece el modo del archivo (como en chmod)
+
+Al leer el manual de cp 
+
+el más útil es cp --backup por que hace una copia de seguridad de cada archivo de destino existente, y este nos beneficia mucho al poder guardar una copia de seguridad dentro de nuestros archivos.
+
+Al leer el manual de rm 
+
+El más útil es rm --v, --verbose ya que te explica que se está haciendo y es bueno saber que archivos estás eliminando. 
